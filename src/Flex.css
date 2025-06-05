@@ -1,0 +1,23 @@
+.Flex-main{
+  text-align: center;
+  background: black;
+  color: white;
+}
+.Flex-direction-1{
+  display: flex;
+  flex-direction: row;
+}
+
+.Flex-direction-2{
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.Flex-direction-3{
+  display: flex;
+  flex-direction: column;
+}
+.Flex-direction-4{
+  display: flex;
+  flex-direction: column-reverse;
+}
