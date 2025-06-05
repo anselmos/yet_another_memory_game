@@ -1,3 +1,9 @@
+# Created with:
+```
+nvm install 14
+nvm use 14
+npx create-react-app yet_another_memory_game
+```
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
